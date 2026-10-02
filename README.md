@@ -222,6 +222,7 @@ Checking a claim, an image, or a citation before you repeat it.
 For building research into a pipeline rather than doing it by hand.
 
 - **[Apify](https://apify.com/)** — Hosted scrapers and a marketplace of ready-made extractors for public sources. `Freemium` `Web` `API`
+- **[Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899)** — Base mainnet x402 research and chat API for agents, with free discovery and USDC pay-per-request calls. `Paid` `Web` `API`
 - **[Crossref](https://www.crossref.org/)** — Registry behind most DOIs, with open metadata for tens of millions of works. `Free` `Web` `API`
 - **[Diffbot](https://www.diffbot.com/)** — Extracts structured records from pages and maintains a knowledge graph of them. `Paid` `Web` `API`
 - **[Exa](https://exa.ai/)** — Search API designed for retrieval by models, with content returned alongside results. `Freemium` `API`
